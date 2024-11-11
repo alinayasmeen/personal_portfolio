@@ -36,36 +36,6 @@ const Header: FC = () => (
         </button>
       ))}
     </div> 
-
-      {/* <nav>
-        <ul className="flex space-x-6">
-          <li>
-            <Link href="#hero" className="text-white hover:text-purple-600 transition">
-              Home
-            </Link>
-          </li>
-          <li>
-            <Link href="/about" className="text-white hover:text-purple-600 transition">
-              About
-            </Link>
-          </li>
-          <li>
-            <Link href="/skills" className="text-white hover:text-purple-600 transition">
-              Skills
-            </Link>
-          </li>
-          <li>
-            <Link href="/projects" className="text-white hover:text-purple-600 transition">
-              Projects
-            </Link>
-          </li>
-          <li>
-            <Link href="/contact" className="text-white hover:text-purple-600 transition">
-              Contact
-            </Link>
-          </li>
-        </ul>
-      </nav> */}
     
   </div>
 );
