@@ -71,7 +71,7 @@ export const SkillData = [
 export const Socials = [
   {
     name: "LinkedIn",
-    src: "/Linkedin.svg",
+    src: "/LinkedIn.svg",
     href: "https://www.linkedin.com/in/hafiza-alina-yasmeen-9a329a2b0",
     
     
