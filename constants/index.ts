@@ -61,7 +61,7 @@ export const SkillData = [
   },
    {
     name: "Ms Office",
-    Image: "/pngegg.png",
+    Image: "/splashscreen.png",
     width: 80,
     height: 80,
   },
