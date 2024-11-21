@@ -15,6 +15,7 @@ const config: Config = {
         background: "url(../public/images/background.png)",
         foreground: "url(../public/images/background.png)",
       },
+      
     },
   },
   plugins: [],

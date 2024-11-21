@@ -18,7 +18,8 @@ const page = () => {
           key={index}
           title={`${project.title} - ${project.href}`}
           text={project.text}
-          Image={project.src} href={'project.href'}          
+          Image={project.src} href={project.href}   
+                 
 
         />
       ))}

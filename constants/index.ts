@@ -110,7 +110,7 @@ export const Projects = [
     title: "Modern Nextjs Portfolio",
     text: "A professional personal portfolio website created by using react components, next15 & tailwindcss.",
     src:"/portfolio.png",
-    href:"front page"
+    href:"../"
   },
   {
     title: "Hackathon Resume Builder Website",

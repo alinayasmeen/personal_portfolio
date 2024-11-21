@@ -56,7 +56,7 @@ const ProjectCard = ({ Image, title, text, href }: Props) => {
           <button 
             type="button" 
             onClick={() => window.open(href, "_blank")} 
-            className="text-xl font-semibold"
+            className="text-xl hover:scale-110 font-semibold"
           >
             {title}
           </button>
